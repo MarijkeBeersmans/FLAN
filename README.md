@@ -21,4 +21,4 @@ Please cite the following if you found Flan 2021 useful in your research.
 The code in this repository is licensed according to the [LICENSE](LICENSE) file.
 
 ## Contact Us
-To contact us feel free to create an Issue in this repository, or email the respective authors that contributed to this code base: Jason Wei for the [Flan 2021](https://arxiv.org/abs/2109.01652) paper, Le Hou for the [Scaling Flan](https://arxiv.org/abs/2210.11416) paper, and Shayne Longpre for the [Flan Collection](https://arxiv.org/abs/2301.13688).
+To contact us feel free to create an Issue in this repository, or email the respective authors that contributed to this code base: Jason Wei for the [Flan 2021](https://arxiv.org/abs/2109.01652) paper, Le Hou for the [Scaling Flan](https://arxiv.org/abs/2210.11416) paper, and Shayne Longpre for the [Flan Collection](https://arxiv.org/abs/2301.13688). Test
